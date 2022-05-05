@@ -1,0 +1,6 @@
+{
+	"name" : "Timber Hearth",
+	"childrenToDestroy": [
+    		"Sector_TH/Sector_Village/Sector_UpperVillage/Characters_UpperVillage/Villager_HEA_Arkose_GhostMatter"
+  	]
+}
