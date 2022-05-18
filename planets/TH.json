@@ -1,6 +1,7 @@
 {
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/master/NewHorizons/Schemas/schema.json",
 	"name" : "Timber Hearth",
-	"childrenToDestroy": [
+	"removeChildren": [
     		"Sector_TH/Sector_Village/Sector_UpperVillage/Characters_UpperVillage/Villager_HEA_Arkose_GhostMatter"
   	]
 }
